@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo testing",
-    "slug": "AwesomeProjectexpo",
+    "name": "spinning",
+    "slug": "AwesomeProject",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
